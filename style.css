@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.heading {
+  margin: auto;
+}
+.heading__title {
+  text-align: center;
+}
+.container__inner {
+  max-width: 1200px;
+  margin: auto;
+  padding: 3em;
+}
+.container__block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
